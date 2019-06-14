@@ -1,4 +1,4 @@
-    {
+      {
         "Protein": 
         {
             "Whey": {"subtype":"Concetrate,Isolate,Complex"},
@@ -7,14 +7,17 @@
         },
         "Creatine": 
         {
-            "Monohydrate": {"subtype":4},
-            "Trimalate": {"subtype":4},
-            "Creatine Hydrochloride": {"subtype":4}
+            "Monohydrate": {"subtype":"Creatine"},
+            "Trimalate": {"subtype":"Creatine"},
+            "Creatine Hydrochloride": {"subtype":"Creatine"},
+            "Liquid Creatine": {"subtype":"Creatine"},
+            "Creatine Magnesium Chelate": {"subtype":"Creatine"}
+
         },
     
         "BCAA":
         {
-            "Branched Chain Amino Acids": {"subtype":123}
+            "Branched Chain Amino Acids": {"subtype":"Amino Acids"}
         }
         
     }
