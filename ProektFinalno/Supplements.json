@@ -1,0 +1,21 @@
+    {
+        "Protein": 
+        {
+            "Whey": {"subtype":"Concetrate,Isolate,Complex"},
+            "Beef": {"subtype":"Beef"},
+            "Vegan":{"subtype":"Vegan Protein"}
+        },
+        "Creatine": 
+        {
+            "Monohydrate": {"subtype":4},
+            "Trimalate": {"subtype":4},
+            "Creatine Hydrochloride": {"subtype":4}
+        },
+    
+        "BCAA":
+        {
+            "Branched Chain Amino Acids": {"subtype":123}
+        }
+        
+    }
+

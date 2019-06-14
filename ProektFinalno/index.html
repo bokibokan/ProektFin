@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Full Fitness Final Test</title>
+    <link rel="stylesheet" href="index.css" type="text/css">
+</head>
+
+<body>
+
+
+    <div class="navbar">
+        <a href="#home" id="home">Home</a>
+        <a href="#exercises" id="exercises">Exercises</a>
+        <div class="dropdown">
+            <button class="dropbtn" onclick="myFunction()">Supplements Category
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content" id="myDropdown">
+                <a href="#" id="proteinDropdown" onclick="proteinFormShow()">Protein</a>
+                <a href="#" id="creatineDropdown" onclick="creatineFormShow()">Creatine</a>
+                <a href="#" id="bcaaDropdown" onclick="bcaaFormShow()">BCAA</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="exercisesDiv"></div>
+
+    <div id="proteinForm">
+        <p>Protein</p>
+        <p id="proteinParagraph"></p>
+        <button type="button" id="backBtnProtein" onclick="backButtonProtein()">Back</button></br>
+    </div>
+
+
+    <form id="creatineForm">
+        <p>Creatine</p>
+        <p id="creatineParagraph"></p>
+        <button type="button" id="backBtnCreatine" onclick="backButtonCreatine()">Back</button></br>
+
+    </form>
+
+    <form id="bcaaForm">
+        <p>BCAA</p>
+        <p id="bcaaParagraph"></p>
+        <button type="button" id="backBtnBcaa" onclick="backButtonBcaa()">Back</button></br>
+    </form>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+    <script src="index.js"></script>
+
+
+</body>
+
+</html>
