@@ -1,8 +1,6 @@
-{
+ {
         "Protein": 
         {
-            
-            "Usage":"Your body uses protein to build and repair tissues. You also use protein to make enzymes, hormones, and other body chemicals. Protein is an important building block of bones, muscles, cartilage, skin, and blood.",
             "Whey": {"subtype":"Concetrate,Isolate,Complex"},
             "Beef": {"subtype":"Beef"},
             "Vegan":{"subtype":"Vegan Protein"},
@@ -10,8 +8,6 @@
         },
         "Creatine": 
         {
-            
-            "Usage":"Creatine is most commonly used for improving exercise performance and increasing muscle mass in athletes and older adults.",
             "Monohydrate": {"subtype":"Creatine"},
             "Trimalate": {"subtype":"Creatine"},
             "Creatine Hydrochloride": {"subtype":"Creatine"},
@@ -23,10 +19,8 @@
     
         "BCAA":
         {
-            "Usage":"One of the most popular uses of BCAAs is to increase muscle growth. The BCAA leucine activates a certain pathway in the body that stimulates muscle protein synthesis, which is the process of making muscle",
             "Branched Chain Amino Acids": {"subtype":"Amino Acids"},
             "img": "https://images-na.ssl-images-amazon.com/images/I/61PZN4lKxIL._SY355_.jpg"
         }
         
     }
-
