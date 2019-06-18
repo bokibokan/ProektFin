@@ -1,6 +1,7 @@
  {
         "Protein": 
         {
+            "Usage":["Your body uses protein to build and repair tissues. "],
             "Whey": {"subtype":"Concetrate,Isolate,Complex"},
             "Beef": {"subtype":"Beef"},
             "Vegan":{"subtype":"Vegan Protein"},
