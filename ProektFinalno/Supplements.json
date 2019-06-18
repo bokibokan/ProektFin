@@ -1,7 +1,7 @@
- {
+{
         "Protein": 
         {
-            "Usage":["Your body uses protein to build and repair tissues. "],
+            "Usage":["Your body uses protein to build and repair tissues.", "You also use protein to make enzymes, hormones, and other body chemicals."," Protein is an important building block of bones, muscles, cartilage, skin, and blood."],
             "Whey": {"subtype":"Concetrate,Isolate,Complex"},
             "Beef": {"subtype":"Beef"},
             "Vegan":{"subtype":"Vegan Protein"},
@@ -25,3 +25,4 @@
         }
         
     }
+
