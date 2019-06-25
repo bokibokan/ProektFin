@@ -1,4 +1,4 @@
-    {
+ {
         "Protein": 
         {
             "Usage":["Your body uses protein to build and repair tissues. You also use protein to make enzymes, hormones, and other body chemicals. Protein is an important building block of bones, muscles, cartilage, skin, and blood."],
@@ -31,7 +31,14 @@
             "Usage":["For people who struggle to eat enough to gain weight, mass gainer supplements are an effective way to increase your calorie intake."],
             "Mass Gainer": {"subtype":"Mass Increase"},
             "Weight Gainer": {"subtype":"Overall Weight Increase"},
-            "img": "https://i5.walmartimages.ca/images/Large/103/351/6000198103351.jpg"
+            "img": "https://i5.walmartimages.ca/images/Large/103/351/gainer.jpg"
+        },
+
+        "Glutamine": 
+        {
+            "Usage":["Glutamine is an important amino acid with many functions in the body. It is a building block of protein and critical part of the immune system."],
+            "L-Glutamine": {"subtype":"Like many other amino acids, it exists in two different forms: L-glutamine and D-glutamine. They are almost identical but have a slightly different molecular arrangement. The form found in foods and supplements is L-glutamine."},
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81jXPIUdYWL._SY550_.jpg"
         }
     
     
