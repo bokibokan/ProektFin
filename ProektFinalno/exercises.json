@@ -39,6 +39,7 @@
 	}, {
 		"id": 6,
 		"name": "Floor crunch",
+		"musclegroup":"legs",
         "image": "https://thumbs.dreamstime.com/z/exercise-icons-icon-set-showing-person-doing-different-types-38733444.jpg",
         "video": "https://vimeo.com/178050912"
 	}, {
@@ -50,6 +51,7 @@
 	}, {
 		"id": 8,
 		"name": "Dumbbell press",
+		"musclegroup":"shoulder",
         "image": "https://thumbs.dreamstime.com/z/exercise-icons-icon-set-showing-person-doing-different-types-38733444.jpg",
         "video": "https://vimeo.com/178048727"
 	}, {
