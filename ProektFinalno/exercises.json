@@ -93,7 +93,7 @@
 	}, {
 		"id": 15,
         "name": "Forearm curl up (25 reps)",
-        "musclegroup":"forearms",
+        "musclegroup":"forearm",
         "image": "https://thumbs.dreamstime.com/z/exercise-icons-icon-set-showing-person-doing-different-types-38733444.jpg",
         "video": "https://vimeo.com/177970644"
 	}, {
@@ -141,13 +141,13 @@
 	}, {
 		"id": 23,
         "name": "Hand grippers",
-        "musclegroup":"forearms",
+        "musclegroup":"forearm",
         "image": "https://thumbs.dreamstime.com/z/exercise-icons-icon-set-showing-person-doing-different-types-38733444.jpg",
         "video": "https://vimeo.com/177766222"
 	}, {
 		"id": 24,
         "name": "Dumbbell shoulder press",
-        "musclegroup":"shoulders",
+        "musclegroup":"shoulder",
         "image": "https://thumbs.dreamstime.com/z/exercise-icons-icon-set-showing-person-doing-different-types-38733444.jpg",
         "video": "https://www.vimeo.com/151248907"
 	}, {
